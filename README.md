@@ -1,3 +1,7 @@
+packages
+- connectivity_plus: ^2.0.2
+- lottie:
+
 # internet_connection_check
 
 internet connection check in flutter app
