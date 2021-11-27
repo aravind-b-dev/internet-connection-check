@@ -5,7 +5,7 @@ packages
 ![CHEESE!](screenshot/netconnected.jpg)
 
 
-![CHEESE!](screenshot/no network'.jpg)
+![CHEESE!](screenshot/nonetwork.jpg)
 
 # internet_connection_check
 
