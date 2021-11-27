@@ -2,6 +2,11 @@ packages
 - connectivity_plus: ^2.0.2
 - lottie:
 
+![CHEESE!](screenshot/netconnected.jpg)
+
+
+![CHEESE!](screenshot/no network'.jpg)
+
 # internet_connection_check
 
 internet connection check in flutter app
