@@ -8,9 +8,6 @@ packages
 ![CHEESE!](screenshot/nonetwork.jpg)
 
 
-![CHEESE!](screenshot/video.mp4)
-
-
 # internet_connection_check
 
 internet connection check in flutter app
