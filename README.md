@@ -6,7 +6,8 @@ packages
 https://user-images.githubusercontent.com/73890321/143730975-e35ecf26-ba1d-4bfc-a2e2-0609834b6bd7.mp4
 
 
-![CHEESE!](screenshot/netconnected.jpg)           ![CHEESE!](screenshot/nonetwork.jpg)
+![CHEESE!](screenshot/netconnected.jpg)          
+![CHEESE!](screenshot/nonetwork.jpg)
 
 
 # internet_connection_check
